@@ -1,0 +1,105 @@
+commit 2d4746c273483d047bdb87a66cdbc3ebc4295564
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 27 11:10:31 2024 +0900
+
+    Rename superunchi to superunchi.txt
+
+commit 97c810ee4bc3110ddeb64e02f3246c2dd04ac80c
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 27 11:09:09 2024 +0900
+
+    Create superunchi
+
+commit 3a91aa8f3db0cac59b116108efb90e6448380e27
+Author: Ryota Masuda <ryotamasuda@RyotanoMacBook-Pro.local>
+Date:   Tue Feb 27 11:06:18 2024 +0900
+
+    korehatestdayo
+
+commit e4ebe271400e856f8128f7fa2d0ccdb85b05bf2c
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Fri Feb 23 19:25:02 2024 +0900
+
+    Create new.py
+
+commit 5aba4563023f15869548238e31e7ae69eed8c0d2
+Author: Ryota Masuda <ryotamasuda@RyotanoMacBook-Pro.local>
+Date:   Fri Feb 23 18:51:25 2024 +0900
+
+    my first commit
+
+commit 216c11362d2719e97f0bc8d92727b879851ef5c0
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 20 01:07:16 2024 +0900
+
+    Initial commit
+commit 2d4746c273483d047bdb87a66cdbc3ebc4295564
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 27 11:10:31 2024 +0900
+
+    Rename superunchi to superunchi.txt
+
+commit 97c810ee4bc3110ddeb64e02f3246c2dd04ac80c
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 27 11:09:09 2024 +0900
+
+    Create superunchi
+
+commit 3a91aa8f3db0cac59b116108efb90e6448380e27
+Author: Ryota Masuda <ryotamasuda@RyotanoMacBook-Pro.local>
+Date:   Tue Feb 27 11:06:18 2024 +0900
+
+    korehatestdayo
+
+commit e4ebe271400e856f8128f7fa2d0ccdb85b05bf2c
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Fri Feb 23 19:25:02 2024 +0900
+
+    Create new.py
+
+commit 5aba4563023f15869548238e31e7ae69eed8c0d2
+Author: Ryota Masuda <ryotamasuda@RyotanoMacBook-Pro.local>
+Date:   Fri Feb 23 18:51:25 2024 +0900
+
+    my first commit
+
+commit 216c11362d2719e97f0bc8d92727b879851ef5c0
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 20 01:07:16 2024 +0900
+
+    Initial commit
+commit 2d4746c273483d047bdb87a66cdbc3ebc4295564
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 27 11:10:31 2024 +0900
+
+    Rename superunchi to superunchi.txt
+
+commit 97c810ee4bc3110ddeb64e02f3246c2dd04ac80c
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 27 11:09:09 2024 +0900
+
+    Create superunchi
+
+commit 3a91aa8f3db0cac59b116108efb90e6448380e27
+Author: Ryota Masuda <ryotamasuda@RyotanoMacBook-Pro.local>
+Date:   Tue Feb 27 11:06:18 2024 +0900
+
+    korehatestdayo
+
+commit e4ebe271400e856f8128f7fa2d0ccdb85b05bf2c
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Fri Feb 23 19:25:02 2024 +0900
+
+    Create new.py
+
+commit 5aba4563023f15869548238e31e7ae69eed8c0d2
+Author: Ryota Masuda <ryotamasuda@RyotanoMacBook-Pro.local>
+Date:   Fri Feb 23 18:51:25 2024 +0900
+
+    my first commit
+
+commit 216c11362d2719e97f0bc8d92727b879851ef5c0
+Author: andmorexyz <ryotako88@gmail.com>
+Date:   Tue Feb 20 01:07:16 2024 +0900
+
+    Initial commit
