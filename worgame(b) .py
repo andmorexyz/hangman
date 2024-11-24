@@ -28,7 +28,7 @@ class Card:
         return False
 
     def  __repr__(self):
-        v = self.values[self.value] + "of" \
+        v = self.values[self.value] + "の" \
             + self.suits[self.suit]
         return v
     
